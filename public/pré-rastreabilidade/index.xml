@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pré-Rastreabilidades on TCC - WILE</title>
+    <link>//localhost:1313/pr%C3%A9-rastreabilidade/</link>
+    <description>Recent content in Pré-Rastreabilidades on TCC - WILE</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <atom:link href="//localhost:1313/pr%C3%A9-rastreabilidade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/pr%C3%A9-rastreabilidade/richpicture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pr%C3%A9-rastreabilidade/richpicture/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h1 id=&#34;rich-picture&#34;&gt;Rich Picture&lt;a class=&#34;anchor&#34; href=&#34;#rich-picture&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;introdução&#34;&gt;Introdução&lt;a class=&#34;anchor&#34; href=&#34;#introdu%c3%a7%c3%a3o&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;As Rich Pictures são representações visuais que ilustram os principais elementos de uma situação e seus relacionamentos. Elas podem ser utilizadas tanto para apoiar a compreensão de um contexto quanto para identificar pontos de melhoria. Na prática, consistem em uma combinação de imagens, textos, símbolos e ícones organizados de forma integrada.&lt;/p&gt;&#xA;&lt;p&gt;No caso da WILE, a Rich Picture representa o sistema, suas principais funcionalidades e a forma como os usuários interagem com seus recursos.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
