@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "pt-br"
 title = "TCC - WILE"
-theme = "book"
+theme = "ananke"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
